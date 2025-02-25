@@ -20,7 +20,7 @@ This repository contains a Streamlit-based web application that uses YOLOv8 for 
 1. **Clone the Repository:**
 ```bash
 git clone https://github.com/rishika712/upskillCampus.git
-cd Crop-Weed-Detection
+cd crop&weed_detection
 ```
 
 2. **Install Dependencies:**
@@ -35,7 +35,7 @@ mv best.pt path/to/model/best.pt
 
 4. **Run the Application:**
 ```bash
-streamlit run Crop&WeedDectionUsingYOLOv8.py
+streamlit app.py
 ```
 
 ---
@@ -50,13 +50,13 @@ streamlit run Crop&WeedDectionUsingYOLOv8.py
 
 ## 📂 Folder Structure
 
-📦 Crop-Weed-Detection  
- ├── 📜 Crop&WeedDectionUsingYOLOv8.py  # Main Streamlit app  
- ├── 📜 best.pt                         # YOLOv8 Model weights  
- ├── 📜 users.db                        # SQLite database  
+📦 crop&weed-detection  
+ ├── 📜 app.py  # Main Streamlit app  
+ ├── 📜 best.pt                          # YOLOv8 Model weights  
+ ├── 📜 users.db                         # SQLite database  
  ├── 📂 runs                             # YOLOv8 results folder  
  ├── 📂 assets                           # Background images & UI assets  
- ├── 📜 requirements.txt                 # Dependencies  
+ ├── 🖼️ temp_image.png                   # Temporary image
  ├── 📜 README.md                        # Project Documentation  
 
 ---
