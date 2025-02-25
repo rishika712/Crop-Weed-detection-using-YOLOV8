@@ -57,7 +57,7 @@ streamlit app.py
  ├── 📂 runs                             # YOLOv8 results folder  
  ├── 📂 assets                           # Background images & UI assets  
  ├── 🖼️ temp_image.png                   # Temporary image
- ├── 📜 README.md                        # Project Documentation  
+
 
 ---
 
