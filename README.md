@@ -51,7 +51,7 @@ streamlit app.py
 ## 📂 Folder Structure
 
 📦 crop&weed-detection  
- ├── 📜 app.py  # Main Streamlit app  
+ ├── 📜 Crop&WeedDetectionUsingYOLOv8.py  # Main Streamlit app  
  ├── 📜 best.pt                          # YOLOv8 Model weights  
  ├── 📜 users.db                         # SQLite database  
  ├── 📂 runs                             # YOLOv8 results folder  
